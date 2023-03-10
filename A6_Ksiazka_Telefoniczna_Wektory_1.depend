@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678224607 source:c:\users\ewelina\desktop\programy nowy\a6_ksiazka_telefoniczna_wektory_1\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<sstream>
+	<string>
+	<cstdio>
+	<vector>
+
